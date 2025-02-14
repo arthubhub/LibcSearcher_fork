@@ -1,5 +1,4 @@
 # Search libc function offset
-# Search libc Function Offset
 
 ## Overview
 
